@@ -1,3 +1,4 @@
+# run unique_million_cell_number_generator.py first if file not available 
 # open cell number file, identify number of subscribers for each network provider and give sum of cell numbers
 
 vod = []
